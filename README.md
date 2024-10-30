@@ -32,20 +32,6 @@ Feel free to reach out to discuss ideas or ask questions!
 </p>
 <br>
 
-## 🏆 GitHub Trophies:
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=[marklumba]&column=8&row=1">
-</p>
-<br>
-
-## 📈 GitHub Contribution Graph:
-
-<div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=[marklumba]&theme=minimal"/>
-</div>
-<br>
-
 ## 📊 GitHub Stats:
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
@@ -66,14 +52,13 @@ Feel free to reach out to discuss ideas or ask questions!
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/[your-username]/[repo-name]"><b>[repo-name]</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/[your-username]/[repo-name]?style=flat-square"/></td>
+            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
         </tr>
-        <!-- Add more repository rows as needed -->
     </tbody>
 </table>
 <br>
