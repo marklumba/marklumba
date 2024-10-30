@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="" src="https://github.com/[username]/[username]/blob/master/gifs/cdr.gif" />
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Your Name!](https://yourwebsite.com/) 
+## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mark Lumba!](https://yourwebsite.com/) 
 
 I am a **[Your Role]** at **[Your Organization]**, with a strong background in **[Your Specialties]**. [Brief description of your experience and achievements]. My primary research interests revolve around [Your Interests].
 
