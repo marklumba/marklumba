@@ -42,7 +42,7 @@ Feel free to reach out to discuss ideas or ask questions!
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=minimal"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=[marklumba]&theme=minimal"/>
 </div>
 <br>
 
