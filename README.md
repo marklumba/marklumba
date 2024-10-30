@@ -52,7 +52,7 @@ Feel free to reach out to discuss ideas or ask questions!
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/mirsazzathossain/mirsazzathossain.me.git"><b>mirsazzathossain.me</b></a></td>
+            <td><a href="https://github.com/marklumba/selenium_webcraping"><b>mirsazzathossain.me</b></a></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
             <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
