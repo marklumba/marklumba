@@ -53,11 +53,11 @@ Feel free to reach out to discuss ideas or ask questions!
     <tbody>
         <tr>
             <td><a href="https://github.com/marklumba/selenium_webcraping"><b>mirsazzathossain.me</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mirsazzathossain/mirsazzathossain.me?style=flat-square&labelColor=343b41"/></td>
-            <td><img alt="Language" src="https://img.shields.io/github/languages/top/mirsazzathossain/mirsazzathossain.me?style=flat-square"/></td>
+            <td><img alt="Stars" src=""/></td>
+            <td><img alt="Forks" src=""/></td>
+            <td><img alt="Issues" src=""/></td>
+            <td><img alt="Pull Requests" src=""/></td>
+            <td><img alt="Language" src=""/></td>
         </tr>
     </tbody>
 </table>
