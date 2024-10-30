@@ -2,7 +2,7 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mark Lumba!](https://yourwebsite.com/) 
 
-I am a **Data and Automation Engineer** at **Overstock Accessories Inc.**, with a strong background in **Data Engineering, Python Programming and Problem Solving**. Data Engineer skilled in SQL, Python, Data Engineering Concept/Tools, Cloud services. Automates tasks, builds ETL pipelines, loves Big Data, ML. My primary research interests revolve around solving existing problem through the use of existing open source tools.
+I am a **Data and Automation Engineer** at **Overstock Accessories Inc.**, with a strong background in **Electronics Engineering, Data Engineering, Python Programming and Problem Solving**. Data Engineer skilled in SQL, Python, Data Engineering Concept/Tools, Cloud services. Automates tasks, builds ETL pipelines, loves Big Data, ML. My primary research interests revolve around solving existing problem through the use of existing open source tools.
 
 Currently, I am working on cool projects as a hobby. I am passionate about creating solution.
 
