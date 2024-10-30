@@ -48,7 +48,7 @@ Feel free to reach out to discuss ideas or ask questions!
 
 ## 📊 GitHub Stats:
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> <img alt="GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=[phxgroup]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
 
 ## 🚧 Open source projects:
