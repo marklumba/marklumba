@@ -28,7 +28,7 @@ Feel free to reach out to discuss ideas or ask questions!
 ## 🛠️ Languages and Tools:
 
 <p align="center"> 
-    [Your Tech Stack Icons]
+    Python, SQL, RDMS, Cloud Service( AWS ), Data Engineering Concepts, Automation, Webscraping task, Data Cleaning
 </p>
 <br>
 
