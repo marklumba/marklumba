@@ -35,7 +35,7 @@ Feel free to reach out to discuss ideas or ask questions!
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=[username]&column=8&row=1">
+    <img src="https://github-profile-trophy.vercel.app/?username=[marklumba]&column=8&row=1">
 </p>
 <br>
 
@@ -48,7 +48,7 @@ Feel free to reach out to discuss ideas or ask questions!
 
 ## 📊 GitHub Stats:
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=white&&hide_border=true" width='48%' /> <img alt="GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=[username]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> <img alt="GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=[marklumba]&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 <br>
 
 ## 🚧 Open source projects:
