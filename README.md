@@ -37,32 +37,4 @@ Feel free to reach out to discuss ideas or ask questions!
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
 
-## 🚧 Open source projects:
 
-<table align="center">
-    <thead align="center">
-        <tr border: none;>
-            <td><b>🎁 Projects</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>📚 Forks</b></td>
-            <td><b>🛎 Issues</b></td>
-            <td><b>📬 Pull requests</b></td>
-            <td><b>👨‍💻 Language</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/marklumba/selenium_webcraping"><b>mirsazzathossain.me</b></a></td>
-            <td><img alt="Stars" src=""/></td>
-            <td><img alt="Forks" src=""/></td>
-            <td><img alt="Issues" src=""/></td>
-            <td><img alt="Pull Requests" src=""/></td>
-            <td><img alt="Language" src=""/></td>
-        </tr>
-    </tbody>
-</table>
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
