@@ -2,7 +2,7 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mark Lumba!](https://yourwebsite.com/) 
 
-I am a **Data and Automation Engineer** at **Overstock Accessories Inc.**, with a strong background in **[Your Specialties]**. [Brief description of your experience and achievements]. My primary research interests revolve around [Your Interests].
+I am a **Data and Automation Engineer** at **Overstock Accessories Inc.**, with a strong background in **Data Engineering, Python Programming and Problem Solving**. [Brief description of your experience and achievements]. My primary research interests revolve around [Your Interests].
 
 Currently, I am working on [Your Current Projects]. I am passionate about [Your Passions].
 
