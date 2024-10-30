@@ -65,7 +65,15 @@ Feel free to reach out to discuss ideas or ask questions!
         </tr>
     </thead>
     <tbody>
-        [Your Projects Here]
+        <tr>
+            <td><a href="https://github.com/[your-username]/[repo-name]"><b>[repo-name]</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/[your-username]/[repo-name]?style=flat-square&labelColor=343b41"/></td>
+            <td><img alt="Language" src="https://img.shields.io/github/languages/top/[your-username]/[repo-name]?style=flat-square"/></td>
+        </tr>
+        <!-- Add more repository rows as needed -->
     </tbody>
 </table>
 <br>
