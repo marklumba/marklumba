@@ -17,14 +17,13 @@ Feel free to reach out to discuss ideas or ask questions!
 
 <img align="right" src="[Your GIF URL]" />
 
-- 🔭 Currently Working on: [Your Current Work]
-- 🧮 Learning: [What You're Learning]
-- 👯 Looking to: [Your Goals]
-- 💬 Ask me about: [Your Expertise]
-- 📫 Reach me at: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- 📝 I write articles on: [Your Blog]
-- ⚡ Fun fact: [Your Fun Fact]
+- 🔭 Currently Working on: Enhancing my data engineering skills and tackling exciting personal projects.
+- 🧮 Learning: New tech like Gen AI, ML engineering, and Data Engineering.
+- 👯 Looking to: Exploring generative AI, machine learning engineering, and advanced data engineering techniques.
+- 💬 Ask me about:  Building scalable data pipelines, cloud data solutions, and best practices in data management.
+- 📫 Reach me at: marklumba071289@gmail.com
+- 😄 Pronouns: Mark
+- ⚡ Fun fact: I love drawing, watching anime, and exploring nature with friends.
 
 ## 🛠️ Languages and Tools:
 
