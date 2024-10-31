@@ -35,6 +35,25 @@ Feel free to reach out to discuss ideas or ask questions!
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
 
+## 🚀 My Repositories
+
+### Data Engineering Projects
+- **[selenium_webcraping]([https://github.com/yourusername/project-name](https://github.com/marklumba/selenium_webcraping))**: Brief description of the project. Highlight key technologies and goals.
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+
+### Machine Learning and AI
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+
+### Cloud and Big Data
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+
+### Personal Projects
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
+
+
 
 
 
