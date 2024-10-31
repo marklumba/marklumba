@@ -189,18 +189,6 @@ class MarkLumba:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
 
----
-
-<details>
-<summary>📊 Skill Statistics</summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-</details>
-
-</div>
-
 
 ## 📊 GitHub Stats:
 
