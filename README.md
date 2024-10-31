@@ -28,7 +28,21 @@ Feel free to reach out to discuss ideas or ask questions!
 ## 🛠️ Languages and Tools:
 
 <p align="center"> 
-    Python, SQL, RDMS, Cloud Service( AWS ), Data Engineering Concepts, Automation, Webscraping task, Data Cleaning
+    1. Python
+    2. SQL
+    3. Apache Spark
+    2. Hadoop
+    3. Apache Kafka
+    4. Airflow
+    5. AWS/GCP/Azure
+    6. SQL Database: Such as MySQL, PostgreSQL, SQL server, and DuckDB
+    7. NoSQL Database: MongoDB, Cassandra, and Redis
+    8. Docker
+    9. Git
+    10. Kubernetes
+    11. LLM
+    12. Hugging Face Transformers
+
 </p>
 <br>
 
