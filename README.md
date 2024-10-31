@@ -53,12 +53,6 @@ class MarkLumba:
 
 ---
 
-💬 Feel free to reach out for collaborations, interesting projects, or just a tech chat!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[marklumba]&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
 ## ⚡ A Few Quick Facts:
 
 <img align="right" src="[Your GIF URL]" />
