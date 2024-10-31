@@ -46,7 +46,7 @@ class MarkLumba:
   <a href="https://www.linkedin.com/in/mark-lumba-a44b01112/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com/" target="_blank">
+  <a href="https://github.com/marklumba" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </div>
@@ -56,7 +56,7 @@ class MarkLumba:
 💬 Feel free to reach out for collaborations, interesting projects, or just a tech chat!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=[marklumba]&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ## ⚡ A Few Quick Facts:
