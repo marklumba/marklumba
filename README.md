@@ -25,26 +25,23 @@ Feel free to reach out to discuss ideas or ask questions!
 - 😄 Pronouns: Mark
 - ⚡ Fun fact: I love drawing, watching anime, and exploring nature with friends.
 
-## 🛠️ Languages and Tools:
 
-<p align="center"> 
-    1. Python
-    2. SQL
-    3. Apache Spark
-    2. Hadoop
-    3. Apache Kafka
-    4. Airflow
-    5. AWS/GCP/Azure
-    6. SQL Database: Such as MySQL, PostgreSQL, SQL server, and DuckDB
-    7. NoSQL Database: MongoDB, Cassandra, and Redis
-    8. Docker
-    9. Git
-    10. Kubernetes
-    11. LLM
-    12. Hugging Face Transformers
+## ️ Languages and Tools:
+1. Python
+2. SQL
+3. Apache Spark
+4. Hadoop
+5. Apache Kafka
+6. Airflow
+7. AWS/GCP/Azure
+8. SQL Databases: Such as MySQL, PostgreSQL, SQL Server, and DuckDB
+9. NoSQL Databases: MongoDB, Cassandra, and Redis
+10. Docker
+11. Git
+12. Kubernetes
+13. LLM
+14. Hugging Face Transformers
 
-</p>
-<br>
 
 ## 📊 GitHub Stats:
 
