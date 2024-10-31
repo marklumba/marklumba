@@ -75,6 +75,25 @@ class MarkLumba:
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
 
+## 📊 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/[username]/[repository1]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository1]&theme=radical" />
+  </a>
+  <a href="https://github.com/[username]/[repository2]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository2]&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/[username]/[repository3]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository3]&theme=radical" />
+  </a>
+  <a href="https://github.com/[username]/[repository4]">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository4]&theme=radical" />
+  </a>
+</div>
 
 
 
