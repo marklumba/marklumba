@@ -78,7 +78,7 @@ class MarkLumba:
 ## 📊 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/[marklumba]/[selenium_webcraping]">
+  <a href="https://github.com/marklumba/selenium_webcraping">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repository1]&theme=radical" />
   </a>
   <a href="https://github.com/[username]/[repository2]">
