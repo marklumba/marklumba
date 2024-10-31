@@ -190,7 +190,7 @@ class MarkLumba:
 </p>
 
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
