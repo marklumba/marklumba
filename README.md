@@ -1,17 +1,63 @@
-<img align="center" width="100%" alt="" src="https://github.com/[username]/[username]/blob/master/gifs/cdr.gif" />
+<div align="center">
+  <img width="100%" height="auto" src="https://github.com/[username]/[username]/blob/master/gifs/cdr.gif" alt="Profile Banner">
+</div>
 
-## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm [Mark Lumba!](https://yourwebsite.com/) 
+# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Wave Emoji">
 
-I am a **Data and Automation Engineer** at **Overstock Accessories Inc.**, with a strong background in **Electronics Engineering, Data Engineering, Python Programming and Problem Solving**. Data Engineer skilled in SQL, Python, Data Engineering Concept/Tools, Cloud services. Automates tasks, builds ETL pipelines, loves Big Data, ML. My primary research interests revolve around solving existing problem through the use of existing open source tools.
+I'm **Mark Lumba** - a passionate **Data & Automation Engineer** transforming data into actionable insights! 🚀
 
-Currently, I am working on cool projects as a hobby. I am passionate about creating solution.
+## 👨‍💻 About Me
 
-Feel free to reach out to discuss ideas or ask questions!
+- 🏢 Currently working as a **Data & Automation Engineer** at **Overstock Accessories Inc.**
+- 🎓 Background in **Electronics Engineering**
+- 💡 Passionate about solving real-world problems through automation and data-driven solutions
+- 🌱 Always learning and exploring new technologies
 
-<p>
-[https://www.linkedin.com/in/mark-lumba-a44b01112/]
-</p>
-<br>
+## 🛠️ Tech Stack
+
+```python
+class MarkLumba:
+    def __init__(self):
+        self.role = "Data & Automation Engineer"
+        self.languages = ["Python", "SQL", "Shell"]
+        self.data_engineering = ["ETL", "Data Pipelines", "Big Data"]
+        self.cloud = ["AWS", "Azure", "GCP"]
+        self.interests = ["Machine Learning", "Process Automation", "Data Analytics"]
+```
+
+## 🔧 Core Competencies
+
+- **Data Engineering:** ETL Pipeline Development, Data Warehousing, Big Data Processing
+- **Programming:** Advanced Python, SQL Optimization, Scripting
+- **Cloud Services:** Cloud Infrastructure, Data Services
+- **Automation:** Process Automation, Workflow Optimization
+- **Problem Solving:** Analytics, Technical Architecture, Solution Design
+
+## 🌟 Current Focus
+
+- Building scalable data pipelines
+- Automating repetitive tasks
+- Exploring machine learning applications
+- Contributing to open-source projects
+
+## 📫 Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mark-lumba-a44b01112/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yourwebsite.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</div>
+
+---
+
+💬 Feel free to reach out for collaborations, interesting projects, or just a tech chat!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 
 ## ⚡ A Few Quick Facts:
 
@@ -35,23 +81,6 @@ Feel free to reach out to discuss ideas or ask questions!
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=[marklumba]&theme=white&&hide_border=true" width='48%' /> 
 <br>
 
-## 🚀 My Repositories
-
-### Data Engineering Projects
-- **[selenium_webcraping]([https://github.com/yourusername/project-name](https://github.com/marklumba/selenium_webcraping))**: This Python script utilizes Selenium to scrape application data for BackRack products from Summit Racing.
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-
-### Machine Learning and AI
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-
-### Cloud and Big Data
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-
-### Personal Projects
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
-- **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
 
 
 
