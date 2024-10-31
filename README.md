@@ -19,10 +19,71 @@ I'm **Mark Lumba** - a passionate **Data & Automation Engineer** transforming da
 class MarkLumba:
     def __init__(self):
         self.role = "Data & Automation Engineer"
-        self.languages = ["Python", "SQL", "Shell"]
-        self.data_engineering = ["ETL", "Data Pipelines", "Big Data"]
-        self.cloud = ["AWS", "Azure", "GCP"]
-        self.interests = ["Machine Learning", "Process Automation", "Data Analytics"]
+        
+        # Programming Languages
+        self.languages = {
+            "primary": ["Python", "SQL"],
+            "scripting": ["Shell", "Bash"]
+        }
+        
+        # Big Data Technologies
+        self.big_data = {
+            "processing": ["Apache Spark", "Hadoop"],
+            "streaming": ["Apache Kafka"],
+            "orchestration": ["Apache Airflow"]
+        }
+        
+        # Cloud Platforms
+        self.cloud_services = {
+            "platforms": ["AWS", "GCP", "Azure"],
+            "containers": ["Docker", "Kubernetes"]
+        }
+        
+        # Databases
+        self.databases = {
+            "sql": ["MySQL", "PostgreSQL", "SQL Server", "DuckDB"],
+            "nosql": ["MongoDB", "Cassandra", "Redis"]
+        }
+        
+        # AI/ML Tools
+        self.ai_ml = {
+            "frameworks": ["LLM", "Hugging Face Transformers"],
+            "libraries": ["TensorFlow", "PyTorch", "scikit-learn"]
+        }
+        
+        # Development Tools
+        self.dev_tools = {
+            "version_control": ["Git", "GitHub"],
+            "ci_cd": ["Jenkins", "GitHub Actions"],
+            "monitoring": ["Grafana", "Prometheus"]
+        }
+        
+        # Core Competencies
+        self.expertise = {
+            "data_engineering": ["ETL", "Data Pipelines", "Data Modeling"],
+            "automation": ["Process Automation", "Workflow Optimization"],
+            "architecture": ["System Design", "Microservices", "Data Architecture"]
+        }
+
+    def get_tech_stack(self):
+        """
+        Returns a formatted version of the complete tech stack
+        """
+        return {
+            "Languages": self.languages,
+            "Big Data": self.big_data,
+            "Cloud & Infrastructure": self.cloud_services,
+            "Databases": self.databases,
+            "AI/ML": self.ai_ml,
+            "Development Tools": self.dev_tools,
+            "Core Expertise": self.expertise
+        }
+
+    def __str__(self):
+        """
+        Returns a string representation of key skills
+        """
+        return f"Data & Automation Engineer specialized in Python, Big Data, and Cloud Technologies"
 ```
 
 ## 🔧 Core Competencies
