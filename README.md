@@ -38,7 +38,7 @@ Feel free to reach out to discuss ideas or ask questions!
 ## 🚀 My Repositories
 
 ### Data Engineering Projects
-- **[selenium_webcraping]([https://github.com/yourusername/project-name](https://github.com/marklumba/selenium_webcraping))**: Brief description of the project. Highlight key technologies and goals.
+- **[selenium_webcraping]([https://github.com/yourusername/project-name](https://github.com/marklumba/selenium_webcraping))**: This Python script utilizes Selenium to scrape application data for BackRack products from Summit Racing.
 - **[Project Name](https://github.com/yourusername/project-name)**: Brief description of the project. Highlight key technologies and goals.
 
 ### Machine Learning and AI
