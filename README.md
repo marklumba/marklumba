@@ -4,7 +4,7 @@
 
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Wave Emoji">
 
-I'm **Mark Lumba** - a passionate **Data & Automation Engineer** transforming data into actionable insights! 🚀
+I'm **Mark Licup Lumba** - a passionate **Data & Automation Engineer** transforming data into actionable insights! 🚀
 
 ## 👨‍💻 About Me
 
